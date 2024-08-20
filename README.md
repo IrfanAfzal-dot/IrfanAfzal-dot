@@ -1,12 +1,14 @@
 ## Hi There 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/IrrfanAfzal?color=%231DA1F2&logo=twitter&style=flat-square)](https://www.twitter.com/IrrfanAfzal)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0oSVW99Y5i1ysAyQAZI04Q?color=%23FF0000&label=Subscribe%20on%20YouTube&logo=youtube&style=flat-square)](https://www.youtube.com/@iatechsolutions)
+
+
 - 👋 I’m Irfan Afzal, I am a .NET Full Stack Developer.
 - 👀 I’m interested in software development.
 - 🌱 I’m currently working on Asp.net core, Blazor, Web APIs, and MVC applications.
 - 🌱 I have worked on asp.net core, web apis, blazor, mvc, azure, sql server projects in a professional environment.
 - 💞️ I’m looking to collaborate on asp net core mvc, web api projects. 
-- 📫 you can reach me at irfan.afzal@gmail.com.
-
 
 ##### Languages and Tools I use:
 
