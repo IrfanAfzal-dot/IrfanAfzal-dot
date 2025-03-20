@@ -1,7 +1,7 @@
 ## Hi There 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/IrrfanAfzal?color=%231DA1F2&logo=twitter&style=flat-square)](https://www.twitter.com/IrrfanAfzal)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0oSVW99Y5i1ysAyQAZI04Q?color=%23FF0000&label=Subscribe%20on%20YouTube&logo=youtube&style=flat-square)](https://www.youtube.com/@iatechsolutions)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0oSVW99Y5i1ysAyQAZI04Q?color=%23FF0000&label=Subscribe%20on%20YouTube&logo=youtube&style=flat-square)](https://www.youtube.com/@CodeWithIrfanAfzal)
 
 
 - 👋 I’m Irfan Afzal, I am a .NET Full Stack Developer.
